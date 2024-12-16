@@ -1,0 +1,6 @@
+@SlagboomStatusAPI_HostAddress = http://localhost:5001
+
+GET {{SlagboomStatusAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
